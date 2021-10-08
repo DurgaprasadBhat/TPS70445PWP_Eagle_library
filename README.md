@@ -1,1 +1,2 @@
-# TPS70445PWP_Eagle_library
+# EAGLE Library for TPS70445PWP
+  Voltage regulator IC
